@@ -34,11 +34,7 @@
 </p>
 
 
-### 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b3ssaiwnl&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" height="165"/>
-</p>
 
 ---
 
