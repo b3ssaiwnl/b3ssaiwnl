@@ -32,10 +32,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-### 📌 Projeto em destaque
-
-**[Mathland](https://github.com/b3ssaiwnl)** — Jogo educacional cooperativo de matemática básica, desenvolvido no Godot Engine para alunos do 3º ano do ensino fundamental da Escola Yolanda Queiroz.
-
 ### 📊 Estatísticas
 
 <p align="center">
